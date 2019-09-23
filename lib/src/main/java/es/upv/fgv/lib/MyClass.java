@@ -27,7 +27,7 @@ public class MyClass {
         */
 
     ArrayList<Persona> p = new ArrayList<>();
-    p.add(new Persona("Ferran", 21));
+    p.add(new Persona("Ferran", 22));
     for(Persona i:p){
         i.mostrar();
     }
